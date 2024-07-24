@@ -90,7 +90,6 @@ Required libraries for Python along with their version numbers used while making
 ## 4. Procedure to Train Model
 
 1. Clone the repository to preserve directory structure.<br>
-`git clone https://github.com/dabasajay/Image-Caption-Generator.git`
 2. Put the required dataset files in `train_val_data` folder (files mentioned in readme there).
 3. Review `config.py` for paths and other configurations (explained below).
 4. Run `train_val.py`.
@@ -98,7 +97,6 @@ Required libraries for Python along with their version numbers used while making
 ## 5. Procedure to Test on new images
 
 1. Clone the repository to preserve directory structure.<br>
-`git clone https://github.com/dabasajay/Image-Caption-Generator.git`
 2. Train the model to generate required files in `model_data` folder (steps given above).
 3. Put the test images in `test_data` folder.
 4. Review `config.py` for paths and other configurations (explained below).
